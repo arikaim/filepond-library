@@ -8,5 +8,5 @@ Arikaim CMS Filepond UI library
 
 ### Install
 ```
-composer require arikaim/arikaim-ui-library
+composer require arikaim/filepond-library
 ```
