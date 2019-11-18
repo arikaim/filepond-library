@@ -6,9 +6,6 @@
   
 More details about [Filepond](https://github.com/pqina/filepond)
 
-[Filepond License](https://github.com/pqina/filepond/blob/master/LICENSE)
-
-
 ### Install
 ```bash
 composer require arikaim/filepond-library
