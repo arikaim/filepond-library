@@ -2,7 +2,7 @@
     "title": "Filepond",
     "name": "filepond",
     "package-type": "library",
-    "version": "4.4.3",
+    "version": "4.4.4",
     "description": "Upload anything, from anywhere.",
     "help": "https://pqina.nl/filepond/docs/",
     "repository": "https://github.com/arikaim/filepond-library.git",
@@ -11,5 +11,13 @@
         "filepond.jquery.js",
         "filepond.min.css",
         "filepond-plugin-file-validate-type.min.js"                        
-    ]
+    ],
+    "versions": {
+        "preview": {
+            "files": [
+                "filepond-plugin-image-preview.min.css",
+                "filepond-plugin-image-preview.min.js"   
+            ] 
+        } 
+    }
 }
